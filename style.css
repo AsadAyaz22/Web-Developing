@@ -1,0 +1,62 @@
+body{
+    background-color: darksalmon;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 350%;
+    }
+.Todo{
+    text-align: center;
+}
+img{
+    height: 350px;
+    width: 550px;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 250%;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+}
+.HavingBreakfast{
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.GotoSchool{
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;  
+}
+.HaveLunch{
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.FinishHomework{
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.TakeSomeRest{
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.HaveDinner{
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.GotoSleep{
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    font-size: 100%;
+}
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    font-size: 100%;
+}
